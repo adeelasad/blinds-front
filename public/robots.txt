@@ -1,0 +1,12 @@
+# Lumina Window Treatments Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /account
+Disallow: /account/
+Disallow: /installer
+Disallow: /installer/
+
+# Sitemap location
+Sitemap: https://www.luminablinds.com/sitemap.xml
